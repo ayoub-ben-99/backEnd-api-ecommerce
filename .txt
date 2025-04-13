@@ -1,0 +1,17 @@
+{
+  "name": "ayoub",
+  "email": "ayoub@admin.com",
+  "password": "aa123456789",
+  "isAdmin":"true",
+  "role":"admin"
+}
+
+
+"token": Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2N2ZhZGI5YmQ3NDhmYTk4NjgwOGFlODYiLCJpc0FkbWluIjp0cnVlLCJpYXQiOjE3NDQ0OTM0Njd9.9Pt3RcmB_G4ACYBJJN3NuwxV7x8Ty4fJOF2BZmS6LgQ
+
+
+ok {
+  user
+  auth
+  
+}
